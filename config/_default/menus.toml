@@ -5,5 +5,5 @@
 
 [[main]]
   name = "Documentation"
-  url = "docs/"
+  url = "https://margot.readthedocs.org/"
   weight = 10
